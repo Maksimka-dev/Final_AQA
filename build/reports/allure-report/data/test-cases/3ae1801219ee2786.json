@@ -1,0 +1,88 @@
+{
+  "uid" : "3ae1801219ee2786",
+  "name" : "addEmployeeTest()",
+  "fullName" : "example.Tests.addEmployeeTest",
+  "historyId" : "ab75a62a95b3b063439368fe6a31da99",
+  "time" : {
+    "start" : 1630584714621,
+    "stop" : 1630584734261,
+    "duration" : 19640
+  },
+  "description" : "Add employee test",
+  "descriptionHtml" : "<p>Add employee test</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Add employee test",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login",
+      "time" : {
+        "start" : 1630584723332,
+        "stop" : 1630584727864,
+        "duration" : 4532
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "PIM feature"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PQ2APH8"
+  }, {
+    "name" : "thread",
+    "value" : "14772@DESKTOP-PQ2APH8.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "example.Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "example.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "addEmployeeTest"
+  }, {
+    "name" : "suite",
+    "value" : "example.Tests"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ae1801219ee2786.json",
+  "parameterValues" : [ ]
+}

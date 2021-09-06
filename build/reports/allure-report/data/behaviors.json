@@ -1,0 +1,134 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login feature",
+    "children" : [ {
+      "name" : "loginTest()",
+      "uid" : "fe08f93fa57a7b05",
+      "parentUid" : "536efed61418bae9d51494fa1df1c336",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773544247,
+        "stop" : 1630773561209,
+        "duration" : 16962
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "536efed61418bae9d51494fa1df1c336"
+  }, {
+    "name" : "PIM feature",
+    "children" : [ {
+      "name" : "addEmployeeTest()",
+      "uid" : "16af99d0ab369548",
+      "parentUid" : "fb72192af5fce9144916fd76c1b9ceec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773561620,
+        "stop" : 1630773569672,
+        "duration" : 8052
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fb72192af5fce9144916fd76c1b9ceec"
+  }, {
+    "name" : "Admin feature",
+    "children" : [ {
+      "name" : "addAdminUserTest()",
+      "uid" : "7481461d8612336c",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630773569687,
+        "stop" : 1630773584897,
+        "duration" : 15210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] value_objects.JobTitle@13f1414e",
+      "uid" : "f51d07814d7106fa",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773585092,
+        "stop" : 1630773599457,
+        "duration" : 14365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] value_objects.JobTitle@5c3d170e",
+      "uid" : "f1bc46d67fd19cbb",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773599469,
+        "stop" : 1630773611082,
+        "duration" : 11613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] value_objects.JobTitle@21edcc0a",
+      "uid" : "87e7cb55d46e993",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773611090,
+        "stop" : 1630773622440,
+        "duration" : 11350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] value_objects.JobTitle@13f1414e",
+      "uid" : "7543f0814d68ff1c",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630773622457,
+        "stop" : 1630773631613,
+        "duration" : 9156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] value_objects.JobTitle@5c3d170e",
+      "uid" : "c5efc93246d884f6",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630773631629,
+        "stop" : 1630773648974,
+        "duration" : 17345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] value_objects.JobTitle@21edcc0a",
+      "uid" : "4869ab3190579ebf",
+      "parentUid" : "5c0bbcf6d5fbd618c9b62c591c4173ea",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630773648995,
+        "stop" : 1630773656013,
+        "duration" : 7018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5c0bbcf6d5fbd618c9b62c591c4173ea"
+  } ]
+}

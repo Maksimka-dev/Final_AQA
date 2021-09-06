@@ -1,0 +1,54 @@
+value_objects/JobTitle.java
+ value_objects.JobTitle
+utils/ConfProperties.java
+ utils.ConfProperties
+value_objects/Candidate.java
+ value_objects.Candidate
+utils/Log.java
+ utils.Log
+value_objects/User.java
+ value_objects.User
+data/JobTitlesSource.java
+ data.JobTitlesSource
+value_objects/AssignLeave.java
+ value_objects.AssignLeave
+data/AssignLeaveDataSource.java
+ data.AssignLeaveDataSource
+data/UserDataSource.java
+ data.UserDataSource
+data/CandidateDataSource.java
+ data.CandidateDataSource
+page_objects/CandidatesPage.java
+ page_objects.CandidatesPage
+page_objects/LoginPage.java
+ page_objects.LoginPage
+page_objects/EmployeeInformationPage.java
+ page_objects.EmployeeInformationPage
+page_objects/ConfirmationPage.java
+ page_objects.ConfirmationPage
+page_objects/PersonalDetailsPage.java
+ page_objects.PersonalDetailsPage
+page_objects/SystemUsersPage.java
+ page_objects.SystemUsersPage
+page_objects/JobTitlesPage.java
+ page_objects.JobTitlesPage
+page_elements/HeadElement.java
+ page_elements.HeadElement
+page_objects/AssignListPage.java
+ page_objects.AssignListPage
+page_objects/AddJobTitlePage.java
+ page_objects.AddJobTitlePage
+page_objects/AddCandidatePage.java
+ page_objects.AddCandidatePage
+page_objects/AddEmployeePage.java
+ page_objects.AddEmployeePage
+page_elements/WelcomePanel.java
+ page_elements.WelcomePanel
+page_objects/AssignLeavePage.java
+ page_objects.AssignLeavePage
+page_objects/AddUserPage.java
+ page_objects.AddUserPage
+page_objects/DashboardPage.java
+ page_objects.DashboardPage
+page_elements/MainMenu.java
+ page_elements.MainMenu

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "f51d07814d7106fa",
+  "name" : "[1] value_objects.JobTitle@13f1414e",
+  "time" : {
+    "start" : 1630773585092,
+    "stop" : 1630773599457,
+    "duration" : 14365
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7481461d8612336c",
+  "name" : "addAdminUserTest()",
+  "time" : {
+    "start" : 1630773569687,
+    "stop" : 1630773584897,
+    "duration" : 15210
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "fe08f93fa57a7b05",
+  "name" : "loginTest()",
+  "time" : {
+    "start" : 1630773544247,
+    "stop" : 1630773561209,
+    "duration" : 16962
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7543f0814d68ff1c",
+  "name" : "[1] value_objects.JobTitle@13f1414e",
+  "time" : {
+    "start" : 1630773622457,
+    "stop" : 1630773631613,
+    "duration" : 9156
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "16af99d0ab369548",
+  "name" : "addEmployeeTest()",
+  "time" : {
+    "start" : 1630773561620,
+    "stop" : 1630773569672,
+    "duration" : 8052
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f1bc46d67fd19cbb",
+  "name" : "[2] value_objects.JobTitle@5c3d170e",
+  "time" : {
+    "start" : 1630773599469,
+    "stop" : 1630773611082,
+    "duration" : 11613
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "87e7cb55d46e993",
+  "name" : "[3] value_objects.JobTitle@21edcc0a",
+  "time" : {
+    "start" : 1630773611090,
+    "stop" : 1630773622440,
+    "duration" : 11350
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4869ab3190579ebf",
+  "name" : "[3] value_objects.JobTitle@21edcc0a",
+  "time" : {
+    "start" : 1630773648995,
+    "stop" : 1630773656013,
+    "duration" : 7018
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c5efc93246d884f6",
+  "name" : "[2] value_objects.JobTitle@5c3d170e",
+  "time" : {
+    "start" : 1630773631629,
+    "stop" : 1630773648974,
+    "duration" : 17345
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+} ]

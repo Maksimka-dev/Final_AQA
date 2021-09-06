@@ -1,0 +1,88 @@
+{
+  "uid" : "934e50f5380de8d3",
+  "name" : "addAdminUserTest()",
+  "fullName" : "example.Tests.addAdminUserTest",
+  "historyId" : "d54d00025c1d095a2999790eb6f81aa6",
+  "time" : {
+    "start" : 1630608190498,
+    "stop" : 1630608213044,
+    "duration" : 22546
+  },
+  "description" : "Add admin user test",
+  "descriptionHtml" : "<p>Add admin user test</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Add admin user test",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login",
+      "time" : {
+        "start" : 1630608195825,
+        "stop" : 1630608199327,
+        "duration" : 3502
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Admin feature"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PQ2APH8"
+  }, {
+    "name" : "thread",
+    "value" : "11884@DESKTOP-PQ2APH8.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "example.Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "example.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "addAdminUserTest"
+  }, {
+    "name" : "suite",
+    "value" : "example.Tests"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "934e50f5380de8d3.json",
+  "parameterValues" : [ ]
+}

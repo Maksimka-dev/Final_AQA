@@ -1,0 +1,177 @@
+{
+  "ab75a62a95b3b063439368fe6a31da99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16af99d0ab369548",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773561620,
+        "stop" : 1630773569672,
+        "duration" : 8052
+      }
+    } ]
+  },
+  "552f7edb8cc069120b9d67185422e983" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87e7cb55d46e993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773611090,
+        "stop" : 1630773622440,
+        "duration" : 11350
+      }
+    } ]
+  },
+  "a003acb8208a1b91ed81914fae527c7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1bc46d67fd19cbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773599469,
+        "stop" : 1630773611082,
+        "duration" : 11613
+      }
+    } ]
+  },
+  "d54d00025c1d095a2999790eb6f81aa6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7481461d8612336c",
+      "status" : "failed",
+      "statusDetails" : "Element not found {By.xpath: //table[@id='resultTable']/tbody/tr[0]/By.xpath: descendant::a}\r\nExpected: exist\r\nScreenshot: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773582988.0.png\r\nPage source: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773582988.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"descendant::a\"}",
+      "time" : {
+        "start" : 1630773569687,
+        "stop" : 1630773584897,
+        "duration" : 15210
+      }
+    } ]
+  },
+  "10a3b8b4f36011fbc3766bb67c2abc61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f51d07814d7106fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773585092,
+        "stop" : 1630773599457,
+        "duration" : 14365
+      }
+    } ]
+  },
+  "1b1b87a6bf284ab6beffbb7c393b34f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7543f0814d68ff1c",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible or transparent: visible or have css value opacity=0 {By.xpath: //a[@id='menu_admin_viewJobTitleList']}\r\nElement: '<a href=\"/index.php/admin/viewJobTitleList\" id=\"menu_admin_viewJobTitleList\" type displayed:false></a>'\r\nActual value: visible:false, 1\r\nScreenshot: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773629483.1.png\r\nPage source: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773629483.1.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1630773622457,
+        "stop" : 1630773631613,
+        "duration" : 9156
+      }
+    } ]
+  },
+  "c17b3bc37092f63a3c38abe62abd5d9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe08f93fa57a7b05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630773544247,
+        "stop" : 1630773561209,
+        "duration" : 16962
+      }
+    } ]
+  },
+  "41a1e7c4f114d0b25d7c30931e7c63c1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4869ab3190579ebf",
+      "status" : "failed",
+      "statusDetails" : "Element not found {By.xpath: //input[@id='btnLogin']}\r\nExpected: visible\r\nScreenshot: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773653853.4.png\r\nPage source: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773653853.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id='btnLogin']\"}",
+      "time" : {
+        "start" : 1630773648995,
+        "stop" : 1630773656013,
+        "duration" : 7018
+      }
+    } ]
+  },
+  "4369744156a4f18b55362587872facc7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5efc93246d884f6",
+      "status" : "failed",
+      "statusDetails" : "Alert not found\r\nScreenshot: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773644358.2.png\r\nPage source: file:/F:/senla%20cource/task%20automation/Final_AQA/build/reports/tests/1630773644358.2.html\r\nTimeout: 4 s.\r\nCaused by: TimeoutException: Expected condition failed: waiting for alert to be present (tried for 4 second(s) with 200 milliseconds interval)",
+      "time" : {
+        "start" : 1630773631629,
+        "stop" : 1630773648974,
+        "duration" : 17345
+      }
+    } ]
+  }
+}
